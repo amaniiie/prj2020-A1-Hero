@@ -71,6 +71,7 @@
      <Compile Include="Assets\Rsc_Hero\Script\NumHealth.cs" />
      <Compile Include="Assets\Rsc_Hero\Script\PlayerText.cs" />
      <Compile Include="Assets\Rsc_Hero\Script\Projectile.cs" />
+     <Compile Include="Assets\Rsc_Hero\Script\ReScene.cs" />
      <Compile Include="Assets\Rsc_Hero\Script\Restart.cs" />
      <Compile Include="Assets\Rsc_Hero\Script\ScoreScript.cs" />
      <Compile Include="Assets\Rsc_Hero\Script\SimpleCameraController.cs" />
